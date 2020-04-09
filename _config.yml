@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Arash Mehrjou"
-  avatar           : "images/profile.png"
+  avatar           : "profile.png"
   bio              : "PhD student at Max Planck Institute for Intelligent Systems and ETH Zürich. Working on machine learning and control theory."
   location         : "Tübingen | Zürich"
   employer         :
