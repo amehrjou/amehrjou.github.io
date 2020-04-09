@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Arash Mehrjou / Academic Homepage"
+title                    : "Arash Mehrjou / Academic homepage"
 title_separator          : "-"
 name                     : &name "Arash Mehrjou"
 description              : &description "I am a PhD student at Max Planck Institute for Intelligent Systems and ETH Zürich"
