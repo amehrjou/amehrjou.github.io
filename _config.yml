@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Arash Mehrjou / Academic Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Arash Mehrjou"
+description              : &description "I am a PhD student at Max Planck Institute for Intelligent Systems and ETH Zürich"
+url                      : https://amehrjou.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "amehrjou/amehrjou.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  name             : "Arash Mehrjou"
+  avatar           : "images/profile.png"
+  bio              : "PhD student at Max Planck Institute for Intelligent Systems and ETH Zürich. Working on machine learning and control theory."
+  location         : "Tübingen | Zürich"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  pubmed           : "https://scholar.google.co.uk/citations?user=pnypNygAAAAJ&hl=en&oi=ao"
+  googlescholar    : "https://scholar.google.co.uk/citations?user=pnypNygAAAAJ&hl=en&oi=ao"
+  email            :  "amehrjou@ethz.ch"
+  researchgate     :  "https://www.researchgate.net/profile/Arash_Mehrjou"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "amehrjou"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         :  "arash-mehrjou"
+  orcid            : "https://orcid.org/0000-0002-3832-7784"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "amehrjou"
   vine             :
   weibo            :
   xing             :
