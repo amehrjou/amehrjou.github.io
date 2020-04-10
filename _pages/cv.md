@@ -11,30 +11,38 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. in Electrical Engineering, University of Tehran, 2012
+* M.Sc. in Electrical Engineering, University of Tehran, 2015
+* Ph.D in Computer Science (Machine Learning), ETH Zürich and Max Planck Institute, 2021 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2018: Intern
+  * Microsoft Research
+  * Research: Graph Neural Networks, Reinforcement Learning
+  * Supervisor: Ryota Tomioka
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2019: Visiting Researcher
+  * ETH Zürich
+  * Research: Invariances in nonlinear systems
+  * Supervisor: Prof. John Lygeros
+
+* Winter 2020: Visiting Researcher
+  * ETH Zürich
+  * Research: Learning nonlinear systems
+  * Supervisor: Prof. Gunnar Rätsch
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Machine Learning
+  * Learning theory
+  * Dynamical systems
+  * Deep neural networks
+  * Reinforcement Learning
+* Programmin 
+  * Python, C++
+  * Tensorflow, Pytorch
+  * PyMC, Edward
 
 Publications
 ======
@@ -56,4 +64,6 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Organizing ELLIS Against Covid-19 workshop (Spring 2020)
+* Organizing Disentanglement Challenge, Vancouver, Canada (NeurIPS 2019)
+* Organizing Machine Learning Summer School, Tübingen, Germany (MPI-IS 2017)
