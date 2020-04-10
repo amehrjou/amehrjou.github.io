@@ -17,10 +17,10 @@ In this blog post, I am reviewing the basic concepts of Brownian motion from the
 ## Definition of (one-dimensional) Brownian motion
 
 Definition1.1. *We say that the real-valued process $(B(t))_{t≥0}$ is a one-dimensional Brownian motion started from $0$ if:*
-* $B(0) = 0$ almost  surely,  and  for  all $t≥0$,  the  law  of $B(t)$ is $\mathcal{N}(0,t)$ (centered Gaussian with variance $t$)
-* For  all  positive  integerkand  all $0≤t_1< t_2<···< t_k$,  thekincrements $B(t_1)−B(0),B(t_2)−B(t_1),...,B(t_k)−B(t_{k−1})$ are independent random variables.
-* For each $t≥0$ and $h >0$, the law of $B(t+h)−B(t)$ is the same as the law of $B(h)−B(0)$.
-* There  exists  a  measurable  set $A$ with  probability $1$ , such that for all $\omega\in A$, the map $t\to B(t)$ is continuous on $R_+$.
+* *$B(0) = 0$ almost  surely,  and  for  all $t≥0$,  the  law  of $B(t)$ is $\mathcal{N}(0,t)$ (centered Gaussian with variance $t$)*
+* *For  all  positive  integerkand  all $0≤t_1< t_2<···< t_k$,  thekincrements $B(t_1)−B(0),B(t_2)−B(t_1),...,B(t_k)−B(t_{k−1})$ are independent random variables.*
+* *For each $t≥0$ and $h >0$, the law of $B(t+h)−B(t)$ is the same as the law of $B(h)−B(0)$.*
+* *There  exists  a  measurable  set $A$ with  probability $1$ , such that for all $\omega\in A$, the map $t\to B(t)$ is continuous on $R_+$.*
 
 The first interesting thing about the Brownin motion is _its existence_. The proof is constructive and gives an iterative way to produce a Brownian motion on dyadic intervals and then extend it to continuous domain.
 <p align="center">
