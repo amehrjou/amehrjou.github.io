@@ -1,7 +1,7 @@
 ---
 title: 'Lyapunov Fuction'
 date: 2020-04-10
-permalink: /posts/2020/04/lyapunov/
+permalink: /posts/2020/04/brownian_motion/
 tags:
   - control
   - machine_learning
