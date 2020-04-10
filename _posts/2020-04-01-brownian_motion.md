@@ -8,7 +8,7 @@ tags:
 ---
 
 
-<img src="/images/Brownian_motion.gif">
+<img src="/images/Brownian_motion.gif" class="center">
 
 Brownian motion is the random, uncontrolled movement of particles in a fluid as they constantly collide with other molecules. Brownian motion has been well studied in mathematics and physics and its connections to other seemingly distant areas of mathematics is well established.
 
@@ -24,7 +24,7 @@ Definition1.1. _We say that the real-valued process $(B(t))_{t≥0}$ is a one-di
 
 The first interesting thing about the Brownin motion is _its existence_. The proof is constructive and gives an iterative way to produce a Brownian motion on dyadic intervals and then extend it to continuous domain.
 
-<img src="/images/bm_iterative_construction.png" alt="iterative_construction" width="300">
+<img src="/images/bm_iterative_construction.png" alt="iterative_construction" width="300" class="center">
 
 ## Connection to Harmonic Functions
 
