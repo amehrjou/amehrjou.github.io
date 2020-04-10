@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : &name "Arash Mehrjou"
 description              : &description "I am a PhD student at Max Planck Institute for Intelligent Systems and ETH Zürich"
 url                      : https://amehrjou.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/amehrjou" # the subpath of your site, e.g. "/blog"
 repository               : "amehrjou/amehrjou.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
