@@ -1,4 +1,3 @@
-
 ---
 title: 'Lyapunov Fuction'
 date: 2020-04-10
@@ -61,7 +60,9 @@ To generalize a little bit, **coupling** is defined as a probabilistic map
 \begin{equation}
 \left(\pi_{X}\right)_{\#} \gamma=\mu \text { and }\left(\pi_{Y}\right)_{\#} \gamma=\nu
 \end{equation}
+
 where
+
 \begin{equation}
 \pi_{X}(x, y)=x, \quad \pi_{Y}(x, y)=y \quad \forall(x, y) \in X \times Y
 \end{equation}
