@@ -15,5 +15,8 @@ main:
   - title: "Projects"
     url: /projects/
 
+  - title: "Chess"
+    url: /chess/
+
   - title: "About Me"
     url: /about/  
