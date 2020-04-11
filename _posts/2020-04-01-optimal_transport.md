@@ -1,5 +1,5 @@
 ---
-title: 'Lyapunov Fuction'
+title: 'Optimal Transport'
 date: 2020-04-10
 permalink: /posts/2020/04/optimal_transport/
 tags:
@@ -9,7 +9,7 @@ tags:
 ---
 
 
-<img src="/images/optimal_transport.png", width=200>
+<img src="/images/optimal_transport.png" width=200>
 
 Optimal transport studies turning one measure to another while some cost of transportation is minimized. It started in 17th century with practical problems. The theory behind optimal transport developed extensively in nineteenth and twenteenth centruries.
 
@@ -20,13 +20,13 @@ There are two major historical points in optimal transport marked with two names
 We start with a definition of _image measure_ that will be recurring over and over in this post.
 
 **Definition 1.** *Given $X, Y$ spaces, take $T:X\to Y$ and $\mu\in\mathcal{P}(X)$. The image measure represented
-    $T_{i}\mu\in\mathcal{P}(Y)$ as*
+    $T_{\#}\mu\in\mathcal{P}(Y)$ as*
 
     \begin{equation}
-    \forall A\in \mathcal{B}(Y): \quad (T_#\mu)(A):= \mu(T^{-1}(A))
+    \forall A\in \mathcal{B}(Y): \quad (T_\#\mu)(A):= \mu(T^{-1}(A))
     \end{equation}
 
-It can be shown that $T_i\mu$ is a probability measure on $Y$. Notice that this defintion is one-way, i.e., the pullback operator $S^i$ does not necessarily give a probability measure.
+It can be shown that $T_\#\mu$ is a probability measure on $Y$. Notice that this defintion is one-way, i.e., the pullback operator $S^\#$ does not necessarily give a probability measure.
 
 One practical way to check $\nu\stackrel{?}{=}T_\#\mu$ is to integrate all Borel and Bounded maps $\phi:Y\to\mathbb{R}$ against the measures of both sides
 
