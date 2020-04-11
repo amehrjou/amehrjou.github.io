@@ -20,10 +20,10 @@ There are two major historical points in optimal transport marked with two names
 We start with a definition of _image measure_ that will be recurring over and over in this post.
 
 **Definition 1.** *Given $X, Y$ spaces, take $T:X\to Y$ and $\mu\in\mathcal{P}(X)$. The image measure represented
-    $T_{\#}\mu\in\mathcal{P}(Y)$ as*
+    $T\mu\in\mathcal{P}(Y)$ as*
 
     \begin{equation}
-    \forall A\in \mathcal{B}(Y): \quad (T_\#\mu)(A):= \mu(T^{-1}(A))
+    \forall A\in \mathcal{B}(Y): \quad (T\mu)(A):= \mu(T^{-1}(A))
     \end{equation}
 
 It can be shown that $T_\#\mu$ is a probability measure on $Y$. Notice that this defintion is one-way, i.e., the pullback operator $S^\#$ does not necessarily give a probability measure.
