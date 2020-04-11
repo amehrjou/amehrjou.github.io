@@ -19,8 +19,8 @@ There are two major historical points in optimal transport marked with two names
 
 We start with a definition of _image measure_ that will be recurring over and over in this post.
 
-**Definition 1.** _Given $X, Y$ spaces, take $T:X\to Y$ and $\mu\in\mathcal{P}(X)$. The image measure represented
-    $T_{\#}\mu\in\mathcal{P}(Y)$ as_
+**Definition 1.** *Given $X, Y$ spaces, take $T:X\to Y$ and $\mu\in\mathcal{P}(X)$. The image measure represented
+    $T_{\#}\mu\in\mathcal{P}(Y)$ as*
 
     \begin{equation}
     \forall A\in \mathcal{B}(Y): \quad (T_\#\mu)(A):= \mu(T^{-1}(A))
@@ -49,19 +49,19 @@ Measures can be pushed forward via the composition of functions
 (S \circ T)_{\#} \mu=S_{\#}\left(T_{\#} \mu\right)
 \end{equation}
 
-**Definition 2.** _Given $\mu\in\mathcal{P}(X)$ and $\nu\in\mathcal{P}(Y)$, a map $T:X\to Y$ 
-    is called a **transport map** from $\mu$ to $\nu$ if $T_\#\mu=\nu$. _
+**Definition 2.** *Given $\mu\in\mathcal{P}(X)$ and $\nu\in\mathcal{P}(Y)$, a map $T:X\to Y$ 
+    is called a **transport map** from $\mu$ to $\nu$ if $T_\#\mu=\nu$. *
 
 With this defintion, given a $\mu$ and $\nu$, there might be no map that transports $\mu$ to $\nu$. 
 To generalize a little bit, **coupling** is defined as a probabilistic map
 
-**Definition 3.** $\gamma\in\mathcal{P}(X\times Y)$ is called a coupling of $\mu$ and $\nu$ if_
+**Definition 3.** *$\gamma\in\mathcal{P}(X\times Y)$ is called a coupling of $\mu$ and $\nu$ if*
 
 \begin{equation}
 \left(\pi_{X}\right)_{\#} \gamma=\mu \text { and }\left(\pi_{Y}\right)_{\#} \gamma=\nu
 \end{equation}
 
-where
+*where*
 
 \begin{equation}
 \pi_{X}(x, y)=x, \quad \pi_{Y}(x, y)=y \quad \forall(x, y) \in X \times Y
