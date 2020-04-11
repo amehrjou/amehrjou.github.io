@@ -23,7 +23,7 @@ We start with a definition of _image measure_ that will be recurring over and ov
     $T\mu\in\mathcal{P}(Y)$ as*
 
     \begin{equation}
-    \forall A\in \mathcal{B}(Y): \quad (T\mu)(A):= \mu(T^{-1}(A))
+    \forall A\in \mathcal{B}(Y): \quad (T\mu)(A):= \mu(T(A))
     \end{equation}
 
 It can be shown that $T_\#\mu$ is a probability measure on $Y$. Notice that this defintion is one-way, i.e., the pullback operator $S^\#$ does not necessarily give a probability measure.
