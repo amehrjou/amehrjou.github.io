@@ -37,7 +37,7 @@ One practical way to check $\nu\stackrel{?}{=}T_\#\mu$ is to integrate all Borel
 As a corollary, the _push-forward_ condition is known as
 
 \begin{equation}
-\nu=T_{\#} \mu \Rightarrow \int_{Y} \varphi d\left(T_{\#} \mu\right)=\int_{X} \varphi \circ T d \mu \label{eq:push_forward_condition}
+\nu=T_# \mu \Rightarrow \int_{Y} \varphi d\left(T_# \mu\right)=\int_{X} \varphi \circ T d \mu \label{eq:push_forward_condition}
 \end{equation}
 
 for any $\phi:X\to\mathbb{R}$ Borel and bounded.
