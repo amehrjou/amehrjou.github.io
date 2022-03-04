@@ -14,7 +14,7 @@ a total of more than 20 000 central processing unit (CPU) hours of compute time.
 * We survey and analyse the current state-of-the-art of active learning for biological exploration in the context of the generated experimental results, and present avenues of heightened potential for future research based on the developed benchmark.
 
 <p align="center">
-  <img src="./genedisco/genedisco_schematics.png" alt="drawing" width="600"/>
+  <img src="/images/publications/genedisco/genedisco_schematics.png" alt="drawing" width="600"/>
 </p>
 
 
