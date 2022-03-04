@@ -20,4 +20,4 @@ a total of more than 20 000 central processing unit (CPU) hours of compute time.
 
 [Download paper here](https://tinyurl.com/3nec97kb)
 
-Recommended citation: Mehrjou A, Soleymani A, Jesson A, Notin P, Gal Y, Bauer S, Schwab P. GeneDisco: A Benchmark for Experimental Design in Drug Discovery. arXiv preprint arXiv:2110.11875. 2021 Oct 22.
+<!-- Recommended citation: Mehrjou A, Soleymani A, Jesson A, Notin P, Gal Y, Bauer S, Schwab P. GeneDisco: A Benchmark for Experimental Design in Drug Discovery. arXiv preprint arXiv:2110.11875. 2021 Oct 22. -->

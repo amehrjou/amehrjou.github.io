@@ -17,9 +17,9 @@ Deep generative models such as Generative Adversarial Networks (GANs) and Variat
 
 [Download paper here](https://arxiv.org/pdf/1812.03253)
 
-Recommended citation: "@article{besserve2018counterfactuals,
+<!-- Recommended citation: "@article{besserve2018counterfactuals,
   title={Counterfactuals uncover the modular structure of deep generative models},
   author={Besserve, Michel and Sun, R{\'e}my and Sch{\"o}lkopf, Bernhard},
   journal={arXiv preprint arXiv:1812.03253},
   year={2018}
-}"
+}" -->
