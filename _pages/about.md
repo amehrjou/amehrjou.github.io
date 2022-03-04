@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am working on basic questions in $S=\{\text{machine learning}, \text{control theory}, \text{genomics}\}$ and $S \times S$. I guess there exists interesting underlying connections among these fields which I try to show. 
+I am working on basic questions in $S=${$\text{machine learning}, \text{control theory}, \text{genomics}$} and $S \times S$. I guess there exists interesting underlying connections among these fields which I try to show. 
