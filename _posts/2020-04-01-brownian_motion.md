@@ -8,9 +8,13 @@ tags:
 ---
 
 
-<img src="/images/Brownian_motion.gif">
+<!-- <img src="/images/Brownian_motion.gif"> -->
 
 Brownian motion is the random, uncontrolled movement of particles in a fluid as they constantly collide with other molecules. Brownian motion has been well studied in mathematics and physics and its connections to other seemingly distant areas of mathematics is well established.
+
+<p align="center">
+  <img src="/images/Brownian_motion.gif" alt="drawing" width="600"/>
+</p>
 
 In this blog post, I am reviewing the basic concepts of Brownian motion from the perspective of a machine learning researcher.
 
