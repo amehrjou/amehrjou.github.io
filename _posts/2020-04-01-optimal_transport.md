@@ -2,6 +2,7 @@
 title: 'Optimal Transport'
 date: 2020-04-12
 permalink: /posts/2020/04/optimal_transport/
+image: /images/optimal_transport.png
 tags:
   - mathematics
   - machine learning
