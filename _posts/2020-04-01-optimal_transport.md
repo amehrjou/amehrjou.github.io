@@ -7,6 +7,9 @@ tags:
   - machine learning
 ---
 
+
+<meta name=”twitter:image” content=”/images/optimal_transport.png”>
+
 <!-- Add a single line of comment to prevent the blog post post index page from including the following text. -->
 
 
