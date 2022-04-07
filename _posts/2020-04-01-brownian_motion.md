@@ -2,6 +2,7 @@
 title: 'Brownian Motion'
 date: 2020-04-10
 permalink: /posts/2020/04/brownian_motion/
+image: "/images/Brownian_motion.gif"
 tags:
   - mathematics
   - stochastic calculus
