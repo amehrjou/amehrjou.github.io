@@ -12,7 +12,7 @@ tags:
 
 
 
-Optimal * transport studies turning one measure to another while some cost of transportation is minimized. It started in 17th century with practical problems. The theory behind optimal transport developed extensively in nineteenth and twenteenth centruries.
+Optimal test transport studies turning one measure to another while some cost of transportation is minimized. It started in 17th century with practical problems. The theory behind optimal transport developed extensively in nineteenth and twenteenth centruries.
 
 In this post, I review the main theoretical ideas of optimal transport and their interpretations.
 <img src="/images/optimal_transport.png" width="500">
