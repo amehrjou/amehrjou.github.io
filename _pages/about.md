@@ -11,7 +11,16 @@ redirect_from:
 I do work on basic questions in $S=${$\text{machine learning}, \text{control theory}, \text{genomics}$} and $S \times S$. I guess there exists interesting underlying connections among these fields which I try to show. 
 The content of this website is my <span style="color:red">**Distant Vantage Point**</span> which is not limited to scientific research in above topics, but also thoughts on life, philosophy, whatever makes me a conscious being.
 
-https://www.youtube.com/watch?v=wupToqz1e2g
+
+
+<!-- <video width="100%" preload="auto" muted controls>
+    <source src="{{ include.src }}" type="/assets/videos/pale_blue_dot.mp4"/>
+</video> -->
+<center>
+<video width="600" controls="controls">
+  <source src="/assets/videos/pale_blue_dot.mp4">
+</video>
+</center>
 
 <br/><br/>
 
