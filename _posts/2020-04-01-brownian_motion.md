@@ -2,7 +2,7 @@
 title: 'Brownian Motion'
 date: 2020-04-10
 permalink: /posts/2020/04/brownian_motion/
-image: "/images/Brownian_motion.gif"
+image: "/assets/images/Brownian_motion.gif"
 tags:
   - mathematics
   - stochastic calculus
@@ -15,7 +15,7 @@ tags:
 Brownian motion is the random, uncontrolled movement of particles in a fluid as they constantly collide with other molecules. Brownian motion has been well studied in mathematics and physics and its connections to other seemingly distant areas of mathematics is well established.
 
 <p align="center">
-  <img src="/images/Brownian_motion.gif" alt="drawing" width="600"/>
+  <img src="/assets/images/Brownian_motion.gif" alt="drawing" width="600"/>
 </p>
 
 In this blog post, I am reviewing the basic concepts of Brownian motion from the perspective of a machine learning researcher.
@@ -30,7 +30,7 @@ Definition1.1. *We say that the real-valued process $(B(t))_{t≥0}$ is a one-di
 
 The first interesting thing about the Brownin motion is _its existence_. The proof is constructive and gives an iterative way to produce a Brownian motion on dyadic intervals and then extend it to continuous domain.
 <p align="center">
-<img src="/images/bm_iterative_construction.png" alt="iterative_construction" width="300">
+<img src="/assets/images/bm_iterative_construction.png" alt="iterative_construction" width="300">
 </p>
 ## Connection to Harmonic Functions
 

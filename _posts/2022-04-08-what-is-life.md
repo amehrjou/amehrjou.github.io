@@ -7,6 +7,7 @@ tags:
   - physics
   - biology
   - mathematics
+published: true
 ---
 
 <!-- Add a single line of comment to prevent the blog post index page from including the following text. -->
@@ -17,13 +18,21 @@ tags:
 
 
 
-<p style="font-family:Papyrus; font-size:1.2em;">What is life?</p> This has been a grand question that humans have asked themselves throughout their existence on earth. People from various perspectives have investigated this question and reached to different conclusions some of which can not be merged into a consistent set of characteristic properties that define a living being.
+# What is life?
+
+This has been a grand question that humans have asked themselves throughout their existence on earth. People from various perspectives have investigated this question and reached to different conclusions some of which can not be merged into a consistent set of characteristic properties that define a living being.
 
 
 
 <figure>
-  <p><img src="/assets/images/alien_cartoon.png" alt="Aliens' miscommunication."></p>
-   <p style="text-align: center; font-size: 3.2em;"><figcaption> <p style="font-size: 1.2em;">Is there anybody out there? Can you hear us? Are we loud enough?</p></figcaption> </p>
+  <p style="width:500px;margin:0 auto; text-align: center;"> 
+    <img src="/assets/images/alien_cartoon.png" alt="quantum jumps">
+  </p>
+  <p>
+  <figcaption> 
+    <p style="font-size: 1.2em;">Is there anybody out there? Can you hear us? Are we loud enough?</p>
+  </figcaption> 
+  </p>
 </figure>
 
 We, humans, are the most obvious living system that we know with common sense without actually defining what is the exact definition of the term "living". This human-centric view may be misleading if it leads to a distant-based definition of life that turns the term living into a continuous adjective where something is as much living as it is similar to humans. As soon as we use the word "similar", we have to be careful that it comes with an implicit metric that judges the similarity of two things. Hence, this self-centric view does not contribute to understanding the meaning of being alive. We need a more universal observer-independent measure. Can such a measure even exist? It is immediately clear that the relevant areas of science are those that do not depend on human constructs and agreed rules. For example, it's unlikely that psychology or sociology could help much as they mostly concern the emergent concepts and norms in individual or collective behaviors. Hence, we need to resort to more fundamental areas such as physics and mathematics.
@@ -48,9 +57,17 @@ This is alarming as it implies that some of the biggest questions are indeed uns
 
 Let's get back to Schrodinger's lectures.
 
+
+
 <figure>
-  <p><img src="/assets/images/aperiodeic_vs_periodic_living.png" alt="Aliens' miscommunication."></p>
-   <p style="text-align: center; font-size: 3.2em;"><figcaption> <p style="font-size: 1.2em;">Less repetative patterns can store more information which is needed to encode a living organism.</p></figcaption> </p>
+  <p style="width:500px;margin:0 auto; text-align: center;"> 
+    <img src="/assets/images/aperiodeic_vs_periodic_living.png" alt="quantum jumps">
+  </p>
+  <p>
+  <figcaption> 
+    <p style="font-size: 1.2em;">Less repetative patterns can store more information which is needed to encode a living organism.</p>
+  </figcaption> 
+  </p>
 </figure>
 
 ## The lower-boundedness of the size of living things
@@ -60,18 +77,35 @@ An example of particular interest is the measurement device composed of a light 
 
 
 <figure>
-  <p><img src="/assets/images/statistical_planning_cartoon.png" alt="Aliens' miscommunication."></p>
-   <p style="text-align: center; font-size: 3.2em;"><figcaption> <p style="font-size: 1.2em;">The smaller an organism becomes, less certain it would be about the laws of nature.</p></figcaption> </p>
+  <p style="width:500px;margin:0 auto; text-align: center;"> 
+    <img src="/assets/images/statistical_planning_cartoon.png" alt="quantum jumps">
+  </p>
+  <p>
+  <figcaption> 
+    <p style="font-size: 1.2em;text-align: center;">The smaller an organism becomes, less certain it would be about the laws of nature.</p>
+  </figcaption> 
+  </p>
 </figure>
+
+
 
 The mutation is the working ground for evolution. It is indispensable to differentiate between the randomness in the genotype to phenotype process and the mutation in the genotype. The former results in the distribution of the phenotype with connected support while the latter leads to phenotypes values far from the distribution of non-mutated values without observing the intermediate values. Thus, the <p style="font-family:Papyrus; font-size:1.2em;">discontinuoity</p> is the key sign of genetic mutation. It is important that mutation must be a **rare** event otherwise the species may vanish before being evolved.
 
 ## The reconciliation of gene sizes and their regular activities
 It is historically observed that hereditary attributes are preserved from over centuries. This might look in contrast with the fact the gene which encodes that attribute is small enough to be affected by Brownian heat motion. The key is in the concept of discrete energy and **equilibrium**. Quantum theory predicts discrete levels of energy for atoms. In a more general setting, the molecules which are formed by a few atoms can take only a discrete finite set of **states**. A certain amount of energy has to be given to the molecule to change its state into a higher energy state whose structure is significantly different. This suggests that the gene (and possibly the entire genetic material) is a molecule whose stability is caused by being at the energy equilibrium. 
 
-<figure class="center">
-  <p><img src="/assets/images/quantum_jumps.png" alt="quantum jumps." style="width:500px;" ></p>
-   <p style="text-align: center; font-size: 3.2em;"><figcaption> <p style="font-size: 1.2em;">Even though there are numerous energy levels for the molecule, only the stable ones correspond to interesting and persistent isomers.</p></figcaption> </p>
+
+
+
+<figure>
+  <p style="width:500px;margin:0 auto; text-align: center;"> 
+    <img src="/assets/images/quantum_jumps.png" alt="quantum jumps">
+  </p>
+  <p>
+  <figcaption> 
+    <p style="font-size: 1.2em;">Less repetative patterns can store more information which is needed to encode a living organism.</p>
+  </figcaption> 
+  </p>
 </figure>
 
 
