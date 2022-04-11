@@ -16,8 +16,14 @@ The content of this website is my <span style="color:red">**Distant Vantage Poin
 <!-- <video width="100%" preload="auto" muted controls>
     <source src="{{ include.src }}" type="/assets/videos/pale_blue_dot.mp4"/>
 </video> -->
+
+
+
+
+
 <center>
-<video width="600" controls autoplay>
+<video class="cover" width="640" poster="/assets/images/earth_thumbnail_closeup.jpg" controls autoplay >
+  object-fit: cover
   <source src="/assets/videos/pale_blue_dot.mp4">
 </video>
 </center>
