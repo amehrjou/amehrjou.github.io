@@ -186,10 +186,10 @@ Service and leadership
 Co-/Supervised students and interns
 ======
 
-* Mathieu Chevalley (Intern, GSK, current: Ph.D. @ ETH & GSK)
-* Ashkan Soleymani (Intern, MPI-IS, current: MIT)
+* Mathieu Chevalley (Intern, GSK, current: Ph.D. student @ ETH & GSK)
+* Ashkan Soleymani (Intern, MPI-IS, current: Ph.D. student@ MIT)
 * Korbinian Abstreiter (M.Sc., ETH Zürich, current: Private sector)
-* Amin Abyaneh (Intern, MPI-IS, current: McGill)
+* Amin Abyaneh (Intern, MPI-IS, current: Ph.D. student @ McGill)
 * Andrea Capioppo (M.Sc., MPI-IS)
 
 
