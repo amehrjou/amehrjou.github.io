@@ -48,7 +48,7 @@ Education
           </ul>
         </td>
         <td style="text-align: center; vertical-align: center;" >
-          <p><img style="float: right;" src="/assets/images/maxplanck_eth_logo.png" alt="drawing" width="500"/>
+          <p><img style="float: right;" src="/assets/images/maxplanck_eth_logo.png" alt="drawing" width="440"/>
         </p></td>
       </tr>
       <tr>
@@ -148,7 +148,7 @@ Academic visits
 * Winter 2019: Visiting Researcher
   * ETH Zürich
   * Research: Time series analysis
-  * Supervisor: Prof. Gunnar R\"atsch
+  * Supervisor: Prof. Gunnar Rätsch
 
 
 
