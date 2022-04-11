@@ -6,6 +6,7 @@ image: "/assets/images/Brownian_motion.gif"
 tags:
   - mathematics
   - stochastic calculus
+published: false
 ---
 
 

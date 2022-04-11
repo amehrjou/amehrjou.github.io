@@ -6,6 +6,7 @@ image: "/assets/images/optimal_transport.png"
 tags:
   - mathematics
   - machine learning
+published: true
 ---
 
 <!-- Add a single line of comment to prevent the blog post post index page from including the following text. -->
