@@ -17,7 +17,7 @@ The content of this website is my <span style="color:red">**Distant Vantage Poin
     <source src="{{ include.src }}" type="/assets/videos/pale_blue_dot.mp4"/>
 </video> -->
 <center>
-<video width="600" controls="controls">
+<video width="600" controls autoplay>
   <source src="/assets/videos/pale_blue_dot.mp4">
 </video>
 </center>
