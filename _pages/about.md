@@ -25,10 +25,10 @@ The content of this website is my <span style="color:red">**Distant Vantage Poin
 <br/><br/>
 
 
-I also love randomness and below is a photo I stole from Cambridge's Jason Miller [page](http://www.statslab.cam.ac.uk//~jpm205/)
+<!-- I also love randomness and below is a photo I stole from Cambridge's Jason Miller [page](http://www.statslab.cam.ac.uk//~jpm205/)
 
 
 <p align="center">
-  <img src="/images/flow_lines_of_the_Gaussian_free_field.png" alt="drawing" width="600"/>
-</p>
+  <img src="/assets/images/flow_lines_of_the_Gaussian_free_field.png" alt="drawing" width="600"/>
+</p> -->
 

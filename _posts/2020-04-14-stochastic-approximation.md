@@ -14,8 +14,8 @@ tags:
 <table style="height: 224px; margin-left: auto; margin-right: auto; border-collapse: collapse; border: none;" width="100%">
 <tbody>
 <tr>
-<td style="width: 106px; border-collapse: collapse; border: none;"><img style="display: block; margin-left: auto; margin-right: auto;" src="/images/robbins.jpeg" alt="" width="200" height="300" /></td>
-<td style="width: 106px; border-collapse: collapse; border: none;"><img style="display: block; margin-left: auto; margin-right: auto;" src="/images/monro.jpeg" alt="https://i.picsum.photos/id/373/200/300.jpg" width="200" height="300" /></td>
+<td style="width: 106px; border-collapse: collapse; border: none;"><img style="display: block; margin-left: auto; margin-right: auto;" src="/assets/images/robbins.jpeg" alt="" width="200" height="300" /></td>
+<td style="width: 106px; border-collapse: collapse; border: none;"><img style="display: block; margin-left: auto; margin-right: auto;" src="/assets/images/monro.jpeg" alt="https://i.picsum.photos/id/373/200/300.jpg" width="200" height="300" /></td>
 </tr>
 <tr>
 <td style="width: 106px; text-align: center; border-collapse: collapse; border: none;">
