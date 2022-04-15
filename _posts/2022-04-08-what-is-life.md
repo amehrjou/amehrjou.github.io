@@ -13,9 +13,16 @@ comments: true
 
 <!-- Add a single line of comment to prevent the blog post index page from including the following text. -->
 
-<p align="center">
-  <img src="/assets/images/what_is_life_schrodinger.jpeg" alt="what is life" width="600"/>
+
+
+
+<p align = "center">
+<img src="/assets/images/what_is_life_schrodinger.jpeg" alt="what is life" style="width:70%;"/>
 </p>
+<p align = "center" style="color:gray;">
+Source: Downloaded from the Internet.
+</p>
+
 
 
 # TL;DR
@@ -32,16 +39,16 @@ This has been a grand question that humans have asked themselves throughout thei
 
 
 
-<figure>
-  <p style="width:500px;margin:0 auto; text-align: center;"> 
-    <img src="/assets/images/alien_cartoon.png" alt="quantum jumps">
-  </p>
-  <p>
-  <figcaption> 
-    <p style="font-size: 1.2em;">Is there anybody out there? Can you hear us? Are we loud enough?</p>
-  </figcaption> 
-  </p>
-</figure>
+<p align = "center">
+<img src="/assets/images/alien_cartoon.png" alt="quantum jumps" style="width:70%;">
+</p>
+<p align = "center" style="color:gray;">
+Is there anybody out there? Can you hear us? Are we loud enough?
+</p>
+
+
+
+
 
 We, humans, are the most obvious living system that we know with common sense without actually defining what is the exact definition of the term "living". This human-centric view may be misleading if it leads to a distant-based definition of life that turns the term living into a continuous adjective where something is as much living as it is similar to humans. As soon as we use the word "similar", we have to be careful that it comes with an implicit metric that judges the similarity of two things. Hence, this self-centric view does not contribute to understanding the meaning of being alive. We need a more universal observer-independent measure. Can such a measure even exist? It is immediately clear that the relevant areas of science are those that do not depend on human constructs and agreed rules. For example, it's unlikely that psychology or sociology could help much as they mostly concern the emergent concepts and norms in individual or collective behaviors. Hence, we need to resort to more fundamental areas such as physics and mathematics.
 
@@ -67,16 +74,13 @@ Let's get back to Schrodinger's lectures.
 
 
 
-<figure>
-  <p style="width:500px;margin:0 auto; text-align: center;"> 
-    <img src="/assets/images/aperiodeic_vs_periodic_living.png" alt="quantum jumps">
-  </p>
-  <p>
-  <figcaption> 
-    <p style="font-size: 1.2em;">Less repetative patterns can store more information which is needed to encode a living organism.</p>
-  </figcaption> 
-  </p>
-</figure>
+
+<p align = "center">
+    <img src="/assets/images/aperiodeic_vs_periodic_living.png" alt="aperiodic vs periodic" style="width:70%;">
+</p>
+<p align = "center" style="color:gray;">
+Less repetative patterns can store more information which is needed to encode a living organism.
+</p>
 
 ## The lower-boundedness of the size of living things
 One of the first questions that arise when investigating the concept of being alive is the size of living things. Accepting that everything in the physical world is governed by strict physical laws, Schrodinger argues that living things cannot be so small. More precisely, they have to be large enough such that they are not affected by a single or a few atoms. This argument has this implicit assumption for the definition of life that a living thing has an orderly structure and also interacts with orderly things. We know from statistical physics that atoms move almost randomly (heat movement) when observed individually, and physical laws start to appear in the collaboration of an enormously large number of them. Hence, anything consisting of a few atoms will not be able to produce, perceive or interact with orderly things. 
@@ -84,16 +88,13 @@ One of the first questions that arise when investigating the concept of being al
 An example of particular interest is the measurement device composed of a light object suspended by a long thin fiber in equilibrium which is used by physicists to measure weak forces that deflect it from its position of equilibrium. Trying to increase the accuracy of measurement by increasing the length of the fiber of making the suspended object lighter meets a limit where the measurement becomes sensitive to the heat motion of the molecules in its surroundings which makes the device useless. Our perception organs are also measurement devices and have to be large enough to measure the statistical behavior of molecules; otherwise, they will be perplexed by the Brownian impact of them which our processing unit (brain) cannot make any sense of. As a rule of thumb, the accuracy of physical laws is within the order of $1/\sqrt{n}$ for $n$ being the number of co-operating particles. This immediately suggests that an organism has to have a gross structure to be able to expect a lawful world. The use of X-ray and measuring the mutation rate gave a lower upper bound for the size of a gene in the order of thousands of atoms.
 
 
-<figure>
-  <p style="width:500px;margin:0 auto; text-align: center;"> 
-    <img src="/assets/images/statistical_planning_cartoon.png" alt="quantum jumps">
-  </p>
-  <p>
-  <figcaption> 
-    <p style="font-size: 1.2em;text-align: center;">The smaller an organism becomes, less certain it would be about the laws of nature.</p>
-  </figcaption> 
-  </p>
-</figure>
+
+<p align = "center">
+    <img src="/assets/images/statistical_planning_cartoon.png" alt="atoms are unable to plan" style="width:70%;">
+</p>
+<p align = "center" style="color:gray;">
+The smaller an organism becomes, less certain it would be about the laws of nature.
+</p>
 
 
 
@@ -105,16 +106,12 @@ It is historically observed that hereditary attributes are preserved over centur
 
 
 
-<figure>
-  <p style="width:500px;margin:0 auto; text-align: center;"> 
-    <img src="/assets/images/quantum_jumps.png" alt="quantum jumps">
-  </p>
-  <p>
-  <figcaption> 
-    <p style="font-size: 1.2em;">Less repetative patterns can store more information which is needed to encode a living organism.</p>
-  </figcaption> 
-  </p>
-</figure>
+<p align = "center">
+    <img src="/assets/images/quantum_jumps.png" alt="quantum jumps" style="width:70%;">
+</p>
+<p align = "center" style="color:gray;">
+Less repetative patterns can store more information which is needed to encode a living organism.
+</p>
 
 
 
@@ -208,18 +205,14 @@ Let's accept for now that genes are the programs that encode the *development* o
 
 This suggests an interesting view to see the genetic molecule as a Turing Machine (TM), the abstract model for general computing devices. The big genetic molecule serves as both the program to run and also the Turing machine to run it. As stated, the Turing machine itself can also be encoded in the program together with the code it's supposed to run. One could see this as bundling the C++ compiler together with the C programs that is supposed to run on a computer. However, a universal machine is still needed to run this bundle. That's where the concept of the Universal Turing Machine (UTM) comes into play; a machine that is capable of running every other Turing Machine. With some imprecision, one could see the *laws of physics* (at least in the spatial context of this planet/universe) as the UTM that runs every TM including the special one of our interest, i.e. genes.
 
-<figure>
-  <p style="width:500px;margin:0 auto; text-align: center;"> 
-    <img src="/assets/images/genes_as_turing_machines.png" alt="genes as turing machines">
-  </p>
-  <p>
-  <figcaption> 
-    <p style="font-size: 1.2em;">Genes as Turing Machines which are run by the laws of Physics (a Universal Turing Machine) to produce a living organism.</p>
-  </figcaption> 
-  </p>
-</figure>
 
 
+<p align = "center">
+    <img src="/assets/images/genes_as_turing_machines.png" alt="genes as turing machines" style="width:70%;">
+</p>
+<p align = "center" style="color:gray;">
+Genes as Turing Machines which are run by the laws of Physics (a Universal Turing Machine) to produce a living organism.
+</p>
 
 
 
