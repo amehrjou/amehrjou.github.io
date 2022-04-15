@@ -10,7 +10,7 @@ tags:
 published: true
 comments: true
 image: /assets/images/what_is_life_schrodinger.jpeg
-summary: Erwin Schrödinger predicted that genes which encode the development of living organisms must be large molecules that are stable and also expressive. The first conditon ensures the perseverance of attributes to next generations while the second property enables the distillation of the whole development plan of an organism in that large molecule that he called aperiodic crystal whose structure was later discovered and called DNA. In this article, I review the Schrodinger's lectures delivered in 1944 tittled "What is life" and make a tiny amendment by connecting it to the theory of Turing Machines, the abstract general computational devices put forward by Alan Turing in 1936.
+summary: Erwin Schrödinger predicted that the genetic material which encodes the development of living organisms must be large molecules that are stable and also expressive. The first condition ensures the perseverance of the attributes that are transferred to the next generations while the second condition enables the distillation of the whole development plan of an organism in that large molecule which he called an aperiodic crystal whose structure was later discovered and named DNA. In this article, I review Schrodinger’s lectures delivered in 1944 titled “What is life” and make a tiny amendment by connecting it to the theory of Turing Machines, the abstract general computational devices put forward by Alan Turing in 1936.
 ---
 
 <!-- Add a single line of comment to prevent the blog post index page from including the following text. -->
@@ -30,8 +30,7 @@ Source: Downloaded from the Internet.
 # TL;DR
 
 
-Erwin Schrödinger predicted that genes which encode the development of living organisms must be large molecules that are stable and also expressive. The first conditon ensures the perseverance of attributes to next generations while the second property enables the distillation of the whole development plan of an organism in that large molecule that he called aperiodic crystal whose structure was later discovered and called DNA.
-In this blog post, I review the Schrodinger's lectures delivered in 1944 tittled "What is life" and make a tiny amendment by connecting it to the theory of Turing Machines, the abstract general computational devices put forward by Alan Turing in 1936.
+Erwin Schrödinger predicted that the genetic material which encodes the development of living organisms must be large molecules that are stable and also expressive. The first condition ensures the perseverance of the attributes that are transferred to the next generations while the second condition enables the distillation of the whole development plan of an organism in that large molecule which he called an aperiodic crystal whose structure was later discovered and named DNA. In this article, I review Schrodinger’s lectures delivered in 1944 titled “What is life” and make a tiny amendment by connecting it to the theory of Turing Machines, the abstract general computational devices put forward by Alan Turing in 1936.
 
 
 
