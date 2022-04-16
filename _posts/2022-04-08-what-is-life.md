@@ -99,7 +99,7 @@ The smaller an organism becomes, less certain it would be about the laws of natu
 
 
 
-The mutation is the working ground for evolution. It is indispensable to differentiate between the randomness in the genotype to phenotype process and the mutation in the genotype. The former results in the distribution of the phenotype with connected support while the latter leads to phenotypes values far from the distribution of non-mutated values without observing the intermediate values. Thus, the <p style="font-family:Papyrus; font-size:1.2em;">discontinuoity</p> is the key sign of genetic mutation. It is important that mutation must be a **rare** event otherwise the species may vanish before being evolved.
+The mutation is the working ground for evolution. It is indispensable to differentiate between the randomness in the genotype to phenotype process and the mutation in the genotype. The former results in the distribution of the phenotype with connected support while the latter leads to phenotypes values far from the distribution of non-mutated values without observing the intermediate values. Thus, the **discontinuoity** is the key sign of genetic mutation. It is important that mutation must be a **rare** event otherwise the species may vanish before being evolved.
 
 ## The reconciliation of gene sizes and their regular activities
 It is historically observed that hereditary attributes are preserved over centuries. This might look in contrast with the fact the gene which encodes that attribute is small enough to be affected by Brownian heat motion. The key is in the concept of discrete energy and **equilibrium**. Quantum theory predicts discrete levels of energy for atoms. In a more general setting, the molecules which are formed by a few atoms can take only a discrete finite set of **states**. A certain amount of energy has to be given to the molecule to change its state into a higher energy state whose structure is significantly different. This suggests that the gene (and possibly the entire genetic material) is a molecule whose stability is caused by being at the energy equilibrium. 
@@ -193,7 +193,7 @@ In the dichotomy of statistical and dynamical laws of Physics, the transition fr
 
 
 
-# DNA as a Truing Machine
+# DNA as a Turing Machine
 
 Let's accept for now that genes are the programs that encode the *development* of the living organism which are physically implemented as a form of stable molecules. I emphasized the term *development* to give the impression that, in this view, genes are not only a list of attributes. They are recipes for building the organism from scratch. One could see the gene as a program that contains the code to produce an attribute and also the instruction on how to run that code. Schrodinger's states more or less the same view:
 
