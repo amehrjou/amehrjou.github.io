@@ -91,7 +91,7 @@ Work experience
     <tr>
       <td>
       <ul>
-        <li> Winter 2020: Research Scientitst Intern
+        <li> Spring 2021: Research Scientitst Intern
           <ul>
             <li>DeepMind</li>
             <li>Research: Multi Agent RL / distributional RL</li>
