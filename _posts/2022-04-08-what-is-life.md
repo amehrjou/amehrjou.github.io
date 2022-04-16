@@ -58,7 +58,7 @@ We, humans, are the most obvious living system that we know with common sense wi
 One of the most known efforts in explaining the boundary between living and non-living things is the lecture series by Erwin Schrödinger in 1944 which was later collected in a book titled "What Is Life? The Physical Aspect of the Living Cell". As expected from the author, the arguments in this lecture originate from physics and chemistry. I call Schrodinger's approach "normative" as what he answers is
 
 <p style="font-family:Papyrus; font-size:1.2em;">What it takes for an object to be alive in a universe where the existing phsyical laws hold?</p>
-""
+
 
 I call this approach normative as it serves as a predictor rather than only explaining what is known so far. Note that the structure of the genetic material of a cell was not known at the time of Schrodinger's lectures. It is astonishing that his approach laid theoretical description and prediction of how genetic information has to be stored which was later acknowledged by the discoverers of DNA double helix structure in 1953. Before we start looking into his theory, I want to emphasize what Schrodinger wrote in the preface of his book about *noblesse oblige* figuratively referring to the unwritten rule in the scientific community that one is expected not to write on any topic of which he is not a master. In an immensely complex problem such as life, cross-disciplinary knowledge is necessary which made him renounce the *noblesse* and its ensuing obligation with the following excuse:
 
