@@ -1,7 +1,7 @@
 ---
 title: 'What is Life? The emergence of the Top-Down Causal Structure'
 date: 2022-04-24
-permalink: /posts/2022/04/lifeastopdowncausation
+permalink: /posts/2022/24/lifeastopdowncausation
 tags:
   - life
   - physics
