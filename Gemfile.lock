@@ -309,7 +309,6 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   hawkins
-  jekyll (~> 3.1)
   jekyll-feed
   jekyll-figure
   jekyll-sitemap
