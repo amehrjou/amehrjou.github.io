@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I do work on basic questions i fields $S=${$\text{machine learning}, \text{control theory}, \text{genomics}$} and $S \times S$. I guess there exists interesting underlying connections among these fields which I try to show. 
+I do work on basic questions in $S=${$\text{machine learning}, \text{control theory}, \text{genomics}$} and $S \times S$. I guess there exists interesting underlying connections among these fields which I try to show. 
 The content of this website is my <span style="color:red">**Distant Vantage Point**</span> which is not limited to scientific research in above topics, but also thoughts on life, philosophy, whatever makes me a conscious being.
 
 
