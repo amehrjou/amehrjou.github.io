@@ -19,7 +19,7 @@ Stochastic calculus is how we mathematically deal with randomness. It lets us wr
 
 In deterministic systems, the future is fully determined by the present. But in the real world? Noise, uncertainty, chaos. Enter randomness.
 
-The key object in stochastic calculus is **Brownian motion**, denoted by \( B_t \). It's a mathematical model for random movement — think of pollen dancing on water.
+The key object in stochastic calculus is **Brownian motion**, denoted by $ B_t $. It's a mathematical model for random movement — think of pollen dancing on water.
 
 ## The Star: Brownian Motion
 
