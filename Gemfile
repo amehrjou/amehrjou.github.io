@@ -1,7 +1,9 @@
 source "https://rubygems.org"
 
 # Use GitHub Pages gem to manage Jekyll and other dependencies
-gem "github-pages", group: :jekyll_plugins
+gem "jekyll", "~> 3.9.3"
+gem "github-pages", "~> 228", group: :jekyll_plugins
+gem "webrick", "~> 1.8"
 
 # Other plugins
 # gem "liquid", "~> 4.0.3"
@@ -10,6 +12,8 @@ gem "github-pages", group: :jekyll_plugins
 group :jekyll_plugins do
   gem "jekyll-feed"
   gem "jekyll-sitemap"
+  gem "jekyll-paginate"
+  gem "jekyll-include-cache"
   gem "hawkins"
   # gem "jekyll-figure"
 end

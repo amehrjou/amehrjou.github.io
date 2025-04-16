@@ -200,6 +200,7 @@ defaults:
       comments: true
       share: true
       related: true
+      excerpt_separator: "<!--more-->"
   # _pages
   - scope:
       path: ""
@@ -207,6 +208,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      excerpt_separator: "<!--more-->"
   # _publications
   - scope:
       path: ""
@@ -216,6 +218,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
+      excerpt_separator: "<!--more-->"
   # _talks
   - scope:
       path: ""
@@ -224,6 +227,7 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+      excerpt_separator: "<!--more-->"
   # _chess
   - scope:
       path: ""
@@ -232,6 +236,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
+      excerpt_separator: "<!--more-->"
 
 # Sass/SCSS
 sass:
