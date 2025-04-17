@@ -1,7 +1,9 @@
 {% include base_path %}
 
 {% if site.tag_archive.type and page.tags[0] %}
+  {% comment %}
   {% include tag-list.html %}
+  {% endcomment %}
 {% endif %}
 
 {% if site.category_archive.type and page.categories[0] %}

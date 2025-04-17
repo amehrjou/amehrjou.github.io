@@ -1,6 +1,6 @@
 ---
 title: 'Mean Field Games'
-date: 2025-04-18
+date: 2025-04-17
 permalink: /posts/2025/04/meanfieldgames
 tags:
   - mean_field_games
@@ -9,8 +9,8 @@ tags:
   - economics
   - finance
 published: true
-comments: true
-image: /assets/images/mean_field_games.jpeg
+comments: false
+image: /assets/images/mean_field_games.png
 summary: What are mean field games and how do they help us understand complex systems with many interacting agents?
 ---
 

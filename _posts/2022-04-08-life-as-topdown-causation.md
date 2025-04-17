@@ -8,7 +8,7 @@ tags:
   - biology
   - mathematics
 published: true
-comments: true
+comments: false
 image: /assets/images/man_inside_a_humanoid.jpeg
 summary: Biology systems can be seen as information processing units as the whole organism and also as a collection of hierarchical information processing units. This perspective motivates the information-first approach toward explaining what is life, or more practically, what can be a computable metric to measure the life-ness of things. This article tries to take a computational stance in interpreting this perspective.
 ---

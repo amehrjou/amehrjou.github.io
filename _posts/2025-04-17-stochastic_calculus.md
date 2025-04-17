@@ -8,8 +8,8 @@ tags:
   - finance
   - biology
 published: true
-comments: true
-image: /assets/images/stochastic_brownian.jpeg
+comments: false
+image: /assets/images/stochastic_calculus.png
 summary: What is stochastic calculus and why is it useful in modeling complex systems?
 ---
 

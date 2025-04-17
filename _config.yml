@@ -184,6 +184,12 @@ collections:
   chess:
     output: true
     permalink: /:collection/:path/
+  ideas:
+    output: true
+    permalink: /:collection/:path/
+  photography:
+    output: true
+    permalink: /:collection/:path/
     
 
 
@@ -191,16 +197,22 @@ collections:
 defaults:
   # _posts
   - scope:
-      path: ""
+      path: "_posts"
       type: posts
     values:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
+      comments: false
       share: true
-      related: true
+      related: false
       excerpt_separator: "<!--more-->"
+  # posts listing page
+  - scope:
+      path: "_pages/posts.md"
+    values:
+      layout: posts
+      author_profile: true
   # _pages
   - scope:
       path: ""
@@ -217,7 +229,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comments: true
+      comments: false
       excerpt_separator: "<!--more-->"
   # _talks
   - scope:
@@ -236,6 +248,26 @@ defaults:
       layout: single
       author_profile: true
       share: true
+      excerpt_separator: "<!--more-->"
+  # _ideas
+  - scope:
+      path: ""
+      type: ideas
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: false
+      excerpt_separator: "<!--more-->"
+  # _photography
+  - scope:
+      path: ""
+      type: photography
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: false
       excerpt_separator: "<!--more-->"
 
 # Sass/SCSS

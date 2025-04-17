@@ -7,7 +7,7 @@ main:
     url: /talks/     
         
   - title: "Posts"
-    url: /year-archive/
+    url: /posts/
     
   - title: "CV"
     url: /cv/
@@ -15,5 +15,8 @@ main:
   - title: "Chess"
     url: /chess/
 
-  - title: "About"
-    url: /about/
+  - title: "Ideas"
+    url: /ideas/
+
+  - title: "Photography"
+    url: /photography/

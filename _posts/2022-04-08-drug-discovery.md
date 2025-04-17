@@ -6,7 +6,7 @@ tags:
   - drug_discovery
   - machine_learning
 published: true
-comments: true
+comments: false
 image: /assets/images/what_is_life_schrodinger.jpeg
 summary: What is drug discovery and how machine learning can contribute?
 ---

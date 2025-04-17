@@ -1,0 +1,39 @@
+{% include base_path %}
+
+{% for post in site.posts %}
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <div class="archive__item-teaser">
+      {% if post.image %}
+        <img src="{{ post.image | relative_url }}" alt="{{ post.title }}">
+      {% endif %}
+    </div>
+    
+    <h2 class="archive__item-title" itemprop="headline">
+      <a href="{{ post.url | relative_url }}" rel="permalink">{{ post.title }}</a>
+    </h2>
+    
+    <p class="page__meta">
+      <i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}
+      <i class="fa fa-fw fa-calendar" aria-hidden="true"></i> <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time>
+    </p>
+    
+    {% if post.summary %}
+      <p class="archive__item-excerpt" itemprop="description">{{ post.summary | markdownify | strip_html | truncate: 160 }}</p>
+    {% elsif post.excerpt %}
+      <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 160 }}</p>
+    {% else %}
+      <p class="archive__item-excerpt" itemprop="description">{{ post.content | markdownify | strip_html | truncate: 160 }}</p>
+    {% endif %}
+    
+    {% if post.tags %}
+      <p class="page__taxonomy">
+        <strong><i class="fa fa-fw fa-tags" aria-hidden="true"></i> Tags: </strong>
+        {% for tag in post.tags %}
+          <a href="{{ site.baseurl }}/tags/#{{ tag | slugify }}" class="page__taxonomy-item" rel="tag">{{ tag }}</a>{% unless forloop.last %}<span class="sep">, </span>{% endunless %}
+        {% endfor %}
+      </p>
+    {% endif %}
+    
+    <p><a href="{{ post.url | relative_url }}" class="btn btn--primary">Read More</a></p>
+  </article>
+{% endfor %} 

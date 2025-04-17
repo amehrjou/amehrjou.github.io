@@ -7,8 +7,8 @@ tags:
   - artificial_intelligence
   - meaning
 published: true
-comments: true
-image: /assets/images/oracle_phone.jpg
+comments: false
+image: /assets/images/philosopher_and_chatbot.png
 summary: In an age where knowledge is instantly accessible, what happens to the value of knowing—and to the human mind?
 ---
 
