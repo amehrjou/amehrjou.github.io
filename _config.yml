@@ -73,9 +73,9 @@ social:
 
 # Analytics
 analytics:
-  provider               : "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               : "google" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : "G-P5HWM1K2TC" # Replace with your Google Analytics 4 measurement ID
+    tracking_id          : "G-P5HWM1K2TC" # Your Google Analytics 4 measurement ID
 
 
 # Site Author
