@@ -65,8 +65,8 @@ $$
 where each $f_i$ is constructed from Hill-type interactions, saturating kinetics, and degradation terms. The Hill function, although smooth, behaves similarly to piecewise polynomials:
 
 - In the low-input regime, it flattens near zero (approximating constant-zero).
-- Around the threshold and in the high-input regime, it saturates—again approximating a constant.
-- In the high-input regime, it saturates—again approximating a constant.
+- Around the threshold and in the high-input regime, it saturates, again approximating a constant.
+- In the high-input regime, it saturates, again approximating a constant.
   
 By combining such units in networks, layered, recurrent, or with inhibitory and activating paths, GRNs can construct piecewise-polynomial-like responses. These responses can switch rapidly, hold steady, oscillate, or bifurcate, mimicking the kind of building blocks used in Rubel’s construction. This observation positions GRNs as physical instantiations of continuous universal approximators. If the parameter space (e.g., binding affinities, transcription rates, cooperativity coefficients) is sufficiently flexible, then by tuning these parameters, a GRN can generate dynamical trajectories that come arbitrarily close to any desired continuous function over time. 
 
