@@ -1,0 +1,135 @@
+---
+title: "The Dynamic Code of Life"
+date: 2025-06-06
+permalink: /posts/2025/06/dynamic-code-of-life
+tags:
+  - biology
+  - mathematics
+  - complexity
+  - evolution
+  - systems
+published: true
+comments: true
+image: /assets/images/dynamic_code_of_life.png
+summary: An exploration of how gene regulatory networks might serve as universal dynamical approximators, offering insights into life's remarkable adaptability and complexity.
+classes: wide
+---
+
+<div style="text-align: center; margin: 3em 0;">
+  <p style="font-size: 1.2em; color: #666; font-style: italic; letter-spacing: 0.5px;">
+    "Life is not just coded in DNA, it is computed by dynamics."
+  </p>
+</div>
+
+The remarkable persistence and adaptability of life across diverse environments raises fundamental questions about the nature of biological complexity. From arctic deserts to hydrothermal vents, life not only survives but organizes itself into increasingly complex structures. While DNA provides the genetic blueprint, the dynamic behavior of gene regulatory networks (GRNs) may offer a new perspective on how life achieves its remarkable robustness and adaptability. This essay explores the hypothesis that GRNs might function as universal dynamical approximators, capable of generating complex biological responses through relatively simple mathematical structures. In this framework, gene regulatory networks act as a kind of continuous universal code, a functional counterpart to DNA, which has been traditionally considered as the static code of life.
+
+Without going too much into the mathematical details, I present a bird's-eye view of the prerequisite mathematics before presenting the idea.
+
+## Rubel's Universal Differential Equation
+
+In 1981, mathematician Lee A. Rubel discovered a universal fourth-order differential equation. He demonstrated that a single differential equation 
+
+$$
+P(y', y'', y''', y'''')=0
+$$
+
+could approximate any continuous function to arbitrary precision. Here, $P$ is a homogenous polynomial in four variables with integer coefficients.
+
+By _universal_ he meant that for any continuous target function $g(t)$ on a closed interval $[a, b]$ and any $\varepsilon > 0$, there exists a parameterization $\alpha$ and initial condition for which the solution $y(t)$ satisfies:
+
+$$
+\sup_{t \in [a, b]} |y(t) - g(t)| < \varepsilon.
+$$
+
+Surprisingly, $F$ takes a relatively simple form as **piecewise polynomials (splines)**!
+
+This result suggests that almost any complex dynamical behavior can emerge from relatively simple mathematical structures. Notice that the complexity of the continuous function is encoded in the differential equation whose time evolution produces the target function. For an intuitive analogy, imagine that the movement of your hand muscles is governed by some differential equations, but you can draw almost any complex path on a paper.
+
+## Gene Regulatory Networks as Universal Dynamical Systems
+
+In biological systems and within a cell, gene regulatory networks operate through a series of interconnected feedback loops. These networks can be modeled using differential equations, with the Hill function providing a common framework for describing regulatory interactions:
+
+$$
+\frac{dX}{dt} = \alpha \frac{Y^n}{K^n + Y^n} - \gamma X
+$$
+
+
+This equation captures essential features of gene regulation, including cooperativity and threshold responses. When organized into networks, these regulatory units can generate complex dynamical behaviors that enable adaptation and specialization of cells.
+
+More importantly, when multiple such genes interact, the collective dynamics can be described by a system of coupled nonlinear differential equations:
+
+$$
+\frac{dx_i}{dt} = f_i(x_1, x_2, ..., x_N), \quad i = 1, ..., N,
+$$
+
+where each $f_i$ is constructed from Hill-type interactions, saturating kinetics, and degradation terms. The Hill function, although smooth, behaves similarly to piecewise polynomials:
+
+- In the low-input regime, it flattens near zero (approximating constant-zero).
+- Around the threshold and in the high-input regime, it saturates—again approximating a constant.
+- In the high-input regime, it saturates—again approximating a constant.
+  
+By combining such units in networks, layered, recurrent, or with inhibitory and activating paths, GRNs can construct piecewise-polynomial-like responses. These responses can switch rapidly, hold steady, oscillate, or bifurcate, mimicking the kind of building blocks used in Rubel’s construction. This observation positions GRNs as physical instantiations of continuous universal approximators. If the parameter space (e.g., binding affinities, transcription rates, cooperativity coefficients) is sufficiently flexible, then by tuning these parameters, a GRN can generate dynamical trajectories that come arbitrarily close to any desired continuous function over time. 
+
+Therefore, if one accepts that a dense set of continuous functions can be generated by a piecewise polynomial ODE, and that GRNs can emulate such structures via the tunable parameters of transcription rates, cooperativity coefficients, and degradation constants, then it follows:
+
+- GRNs are biochemical realizations of universal ODEs.  
+- They do not just react to stimuli, they encode a dense set of possible dynamic responses.
+
+This view transforms GRN from a mere byproduct of DNA into active **universal dynamical approximators**. Instead of DNA being the sole “code of life,” it becomes the source for setting up **initial conditions and parameters** of a deeper, richer code: **the dynamic code** governed by GRNs.
+
+
+## Implications for Biological Systems
+
+If GRNs possess properties similar to universal approximators of dynamical systems, several biological phenomena could naturally be explained. Here I list a few important properties of living systems and show how they can be natural consequence of a dynamic code.
+
+### Robustness Through Dynamical Stability
+
+Consider a GRN described by the system:
+
+$$
+\frac{dx_i}{dt} = f_i(x_1, ..., x_N, \theta)
+$$
+
+where $\theta$ represents environmental parameters. The universal approximation property implies that for any desired output $y(t)$, there exists a parameter set $\theta^*$ such that:
+
+$$
+\|x(t, \theta^*) - y(t)\| < \varepsilon
+$$
+
+for some small $\varepsilon > 0$. This mathematical structure naturally leads to robustness: small perturbations $\delta\theta$ in parameters result in bounded changes in the output:
+
+$$
+\|x(t, \theta^* + \delta\theta) - x(t, \theta^*)\| \leq L\|\delta\theta\|
+$$
+
+where $L$ is a Lipschitz constant. This property is hard to achieve with static codes, which often require explicit error-correction mechanisms.
+
+### Evolvability Through Parameter Space Exploration
+
+The universal approximation property means that the space of possible dynamical behaviors is dense in the space of continuous functions. This implies that small changes in parameters can lead to new functional states. Mathematically, for any two desired behaviors $y_1(t)$ and $y_2(t)$, there exist parameter sets $\theta_1$ and $\theta_2$ such that:
+
+$$
+\|x(t, \theta_1) - y_1(t)\| < \varepsilon \quad \text{and} \quad \|x(t, \theta_2) - y_2(t)\| < \varepsilon
+$$
+
+Moreover, there exists a continuous path in parameter space connecting $\theta_1$ to $\theta_2$. This property enables evolutionary exploration of new functions through small genetic changes, which would be difficult to achieve with a static code that requires precise sequence changes.
+
+### Plasticity Through Dynamical Reprogramming
+
+The ability to approximate arbitrary functions means that the same GRN can produce different phenotypes in response to environmental cues. Consider a GRN that can switch between two behaviors $y_1(t)$ and $y_2(t)$ based on an environmental signal $s(t)$:
+
+$$
+\frac{dx_i}{dt} = f_i(x_1, ..., x_N, \theta, s(t))
+$$
+
+The universal approximation property ensures that for any desired switching behavior, there exists a parameter set $\theta$ that realizes it. This dynamical reprogramming is more flexible than static codes, which would require separate regulatory sequences for each phenotype.
+
+## A Dynamical Perspective on Life
+
+In this perspective, I propose that the true power of biological systems lies not solely in their static genetic code, but in their capacity to generate rich dynamical responses. The dynamical system induced by genetic material should be viewed as a first-class entity, one that encapsulates the functional behavior of the organism more directly than the genetic sequence itself. Rubel's theorem provides theoretical ground for such reasoning by showing how complex behaviors can emerge from simple differential structures. This suggests that biological complexity may arise not from intricate encoding at the genetic level, but from the expressive power of the underlying dynamics, i.e.
+
+<div style="text-align: center; margin: 3em 0;">
+  <p style="font-size: 1.2em; color: #666; font-style: italic; letter-spacing: 0.5px;">
+    "Life computes with flows, not bits."
+  </p>
+</div>
